@@ -14,11 +14,12 @@ In order to replicate the results, run:
 ```
 python3 deploy.py 
 ```
-And insert the required info. 
+And insert the requested information for either the Spanish or English datasets.
 
 
+### References
 
-For citations, refer below: 
+Please refer below if cited: 
 
 ```
 @inproceedings{2021exploiting,
