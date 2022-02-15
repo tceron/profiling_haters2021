@@ -14,7 +14,7 @@ In order to replicate the results, run:
 ```
 python3 deploy.py 
 ```
-And insert the requested information for either the Spanish or English datasets.
+And insert the requested information for either the Spanish or English dataset.
 
 
 ### References
