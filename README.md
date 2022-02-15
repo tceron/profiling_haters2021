@@ -7,6 +7,17 @@ The datasets are available under request [here](https://zenodo.org/record/563701
 ### Outcome
 Further information concerning our methods and results can be found in the [paper](http://ceur-ws.org/Vol-2936/paper-160.pdf). 
 
+### Replication of results
+
+In order to replicate the results, run:
+
+```
+python3 deploy.py 
+```
+And insert the required info. 
+
+
+
 For citations, refer below: 
 
 ```
@@ -17,6 +28,3 @@ For citations, refer below:
   year={2021}
 }
 ```
-
-### Replication of results
-
